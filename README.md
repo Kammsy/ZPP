@@ -2,5 +2,5 @@
 
 Example:
 
-./seedgenerator > seed
-./life seed > result
+./seedgenerator > seed  
+./life seed > result  
